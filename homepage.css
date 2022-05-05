@@ -1,0 +1,48 @@
+*{
+    background-color: skyblue;
+}
+
+
+body{
+    font-size: 20px;
+    font-family: rockwell;
+}
+
+img{
+    left: 0px;
+    width: 500px;
+    
+}
+
+footer{
+    position: absolute;
+    margin-top: 00px;
+    left: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+{
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.b
+{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.i{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.n{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.h{
+    color: rgba(47, 255, 75, 0.692);
+}

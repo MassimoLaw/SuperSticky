@@ -1,0 +1,35 @@
+*{
+  background-color: skyblue;
+}
+p{
+    font-size:  65px;
+    color: white;
+    text-align: center;
+}
+body{
+font-size: 25px;
+color: black;
+text-align: center;
+}
+.img1{
+  text-align: center;
+}
+
+div{
+  border: 1px solid black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.b
+{
+  color: rgba(47, 255, 75, 0.692);
+}
+
+.h{
+  color: rgba(47, 255, 75, 0.692);
+}
+
+.n{
+  color: rgba(47, 255, 75, 0.692);
+}

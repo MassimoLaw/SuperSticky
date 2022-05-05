@@ -1,0 +1,47 @@
+*{
+    background-color: skyblue;
+    }
+    h1{
+        text-align: center;
+        font-size: 50px;
+        color: white;
+        font-family: rockwell;
+    }
+    p{
+        font-size:  25px;
+        color: black;
+        text-align: center;
+        font-family: rockwell;
+       
+    }
+    img{
+left: 400px;
+    }
+    img{
+        width: 253px;
+        height: 363px;
+        padding-left: 250px;
+    }
+    head{
+        font-size: 20px;
+    }
+
+    div{
+        border: 1px solid black;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .h
+    {
+        color: rgba(47, 255, 75, 0.692);
+    }
+
+    .i{
+        color: rgba(47, 255, 75, 0.692);
+    }
+
+    .s{
+        color: rgba(47, 255, 75, 0.692);
+    }
+

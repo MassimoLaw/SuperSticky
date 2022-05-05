@@ -1,0 +1,121 @@
+*{
+    background-color: skyblue;
+}
+* {
+    position: absolute;
+}
+ 
+.tips {
+    position: absolute;
+    color: black;
+    left: 50px;
+    font-size: 75px;
+    text-align: center;
+    border: solid 12px rgb(87, 219, 47);
+    border-radius: 40px;
+    width: 500px;
+}
+ 
+.final1 {
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 55px;
+    border: solid 5px rgb(87, 219, 47);
+    border-spacing: px;
+    width: 500px;
+    font-size: 30px;
+}
+ 
+.final2 {
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 165px;
+    border: solid 5px rgb(87, 219, 47);
+    font-size: 30px;
+    width: 500px;
+}
+ 
+.final3 {
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 355px;
+    border: solid 5px rgb(87, 219, 47);
+    font-size: 30px;
+    width: 500px;
+}
+ 
+.final4 {
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 470px;
+    border: solid 5px rgb(87, 219, 47);
+    font-size: 30px;
+    width: 500px;
+}
+ 
+.final5 {
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 560px;
+    border: solid 5px rgb(87, 219, 47);
+    font-size: 30px;
+    width: 500px;
+}
+ 
+.final6 {
+    position: absolute;
+    color: black;
+    left: 650px ;
+    top: 680px;
+    border: solid 5px rgb(87, 219, 47);
+    font-size: 30px;
+    width: 500px;
+}
+ 
+.fantfi {
+    position: absolute;
+    border: solid rgb(87, 219, 47) 7px;
+    top: 45px;
+    left: 1220px;
+    width: 530px;
+    height: 340px;
+}
+
+
+.finfi {
+    position: absolute;
+    border: solid rgb(87, 219, 47) 7px;
+    top: 450px;
+    left: 1220px;
+    width: 530px;
+    height: 340px;
+
+}
+
+div{
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.b
+{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.i{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.n{
+    color: rgba(47, 255, 75, 0.692);
+}
+
+.H{
+    color: rgba(47, 255, 75, 0.692);
+}
